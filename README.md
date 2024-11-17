@@ -8,8 +8,7 @@ It will also show remaining time, progress bar and size of wordlist file
 
 First clone the repository:
 
-`git clone https://github.com/TheLinuxCursor/python-wordlist-maker`
-`cd python-wordlist-maker`
+`git clone https://github.com/TheLinuxCursor/python-wordlist-maker & cd python-wordlist-maker`
 
 
 Then run the program using:
