@@ -9,7 +9,6 @@ It will also show remaining time, progress bar and size of wordlist file
 First clone the repository:
 
 `git clone https://github.com/TheLinuxCursor/python-wordlist-maker`
-
 `cd python-wordlist-maker`
 
 
@@ -21,4 +20,4 @@ Then run the program using:
 ![dog](https://i.hizliresim.com/mzc0dv3.jpg)
 
 
-![dogo](https://i.hizliresim.com/mzc0dv3.jpg)
+![dogo](https://i.hizliresim.com/raursk8.jpg)
